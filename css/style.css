@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: #ffae00;
+}
+span{
+    color: #000000;
+}
+p{
+    color: #000000;
+    font-size: 20px;
+    text-align: left;
+    font-family:"Merienda", cursive ;
+}
+a{
+    text-decoration: none;
+    font-family: "Merienda", cursive ;
+    background-color: #ffae00;
+    color: black;
+    border-radius: 5px;
+}
+#f_s {
+    color: #ffae00;
+}
+#s_s{
+    color: #000000;
+}
+#f_h1{
+    text-align:left;
+}
+#f_p{
+    text-align: justify;
+}
